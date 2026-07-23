@@ -23,6 +23,19 @@ I am currently transitioning my career into **People Analytics / HR Data Analyst
 - **Soft Skills**: Facilitation, Data Storytelling, Cross-cultural communication
 - **Project Management**: MS Project, planning, budgeting and execution
 
+## 🛠️ Skills & Tools
+
+**Data Science & Analytics**  
+Python, R, SQL, Power BI, Pandas
+
+**AI for HR**  
+Generative AI applied to talent development and learning
+
+**Project Management**  
+MS Project, Project Planning & Execution
+
+**Domain Expertise**  
+Organizational Psychology, Skills Assessment, Learning & Development
 ---
 
 ## 📚 Recent Learning Journey
