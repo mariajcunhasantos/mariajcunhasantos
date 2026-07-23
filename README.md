@@ -1,54 +1,49 @@
-## Hi there 👋
-
 # Maria João Santos
 
 **Aspiring People Analytics | HR Data Analyst**  
-*Bridging Psychology, Data & Project Management*
+*Bridging Psychology & Data*
 
 ---
 
 ## 👋 About Me
 
-Olá! Sou a Maria João Santos, natural de Matosinhos (Porto).  
+Hello! I'm Maria João Santos, based in Portugal.
 
-Com formação em **Psicologia Organizacional, Social e do Trabalho** (Mestrado pela FPCE-UP), tenho trabalhado nos últimos anos em formação, reconhecimento de competências e desenvolvimento de talentos — especialmente em Centros Qualifica.  
+With a background in **Organizational, Social and Occupational Psychology** (Master’s degree from University of Porto), I have worked in training, skills recognition, career guidance and talent development.
 
-Atualmente estou em **transição de carreira** para a área de **People Analytics / HR Data Analyst**, combinando o meu conhecimento profundo sobre comportamento humano e organizações com competências técnicas em análise de dados, IA e gestão de projetos.
+I am currently transitioning my career into **People Analytics / HR Data Analyst**, combining deep knowledge of human behavior and organizations with technical skills in data analytics and AI.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 - **Data Analytics**: SQL, Python, R, Power BI
-- **Project Management**: MS Project, planeamento, orçamentação e execução de projetos
 - **People & HR**: Skills Assessment, Learning & Development, Talent Analytics
 - **Soft Skills**: Facilitation, Data Storytelling, Cross-cultural communication
+- **Project Management**: MS Project, planning, budgeting and execution
 
 ---
 
 ## 📚 Recent Learning Journey
 
-- **Cegid AiDAPT – Data Analytics** (2025/2026)
-- **Project Management + MS Project** (25h + 25h) – GTI Formação (Junho 2026)
-- **Youth4SmartCities** (Erasmus+) – Facilitator do módulo *Urban Data Analysis and Open Data* (Sérvia, Maio 2026)
+- **Cegid AiDAPT – Data Analytics Programme** (2025/2026)
+- **Project Management + MS Project** (June 2026)
+- **Artificial Intelligence for HR** 8h – June 2026
+- **Youth4SmartCities** (Erasmus+) – Trainer of the module *Urban Data Analysis and Open Data* (Serbia, May 2026)
 
 ---
 
 ## 🌟 Featured Projects
 
-*(Em breve — em construção)*
-
-- **Employee Turnover Prediction** – Análise preditiva de saída de colaboradores
-- **Skill Gap Analysis** – Identificação de lacunas de competências e recomendação de formação
-- **Data-Driven Storytelling** – Projetos desenvolvidos no Youth4SmartCities
+*(Coming soon — currently working on it)*
 
 ---
 
 ## 🎯 Current Goal
 
-Desenvolver uma carreira em **People Analytics**, onde possa usar dados para melhorar decisões relacionadas com talento, desenvolvimento organizacional e experiência dos colaboradores.
+To build a career in **People Analytics**, using data and AI to drive better decisions in talent development, employee experience, and organizational performance.
 
-Sempre aberta a colaborações, projetos ou conversas sobre a interseção entre Psicologia, Dados e Gestão de Projetos.
+Always open to collaborations, projects or conversations about the intersection of Psychology, Data, and HR Innovation.
 
 ---
 
@@ -59,20 +54,4 @@ Sempre aberta a colaborações, projetos ou conversas sobre a interseção entre
 
 ---
 
-*“Data only becomes truly powerful when placed at the service of people.”*
-
-
-<!--
-**mariajcunhasantos/mariajcunhasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Data only becomes truly powerful when placed at the service of people."*
