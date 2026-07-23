@@ -34,12 +34,6 @@ I am currently transitioning my career into **People Analytics / HR Data Analyst
 
 ---
 
-<! ## 🌟 Featured Projects
-
-*(Coming soon — currently working on it)*
-
---->
-
 ## 🎯 Current Goal
 
 To build a career in **People Analytics**, using data and AI to drive better decisions in talent development, employee experience, and organizational performance.
