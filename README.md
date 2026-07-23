@@ -1,6 +1,6 @@
 # Maria João Santos
 
-**Aspiring People Analytics | HR Data Analyst**  
+**HR Data Analyst (Transitioning) | People Analytics | Learning & Development Specialist | SQL • Python • R • Power BI**
 *Bridging Psychology & Data*
 
 ---
