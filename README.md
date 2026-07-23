@@ -34,7 +34,7 @@ I am currently transitioning my career into **People Analytics / HR Data Analyst
 
 ---
 
-<## 🌟 Featured Projects
+<!## 🌟 Featured Projects
 
 *(Coming soon — currently working on it)*
 
