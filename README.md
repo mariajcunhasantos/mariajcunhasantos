@@ -38,6 +38,8 @@ I am currently transitioning my career into **People Analytics / HR Data Analyst
 
 To build a career in **People Analytics**, using data and AI to drive better decisions in talent development, employee experience, and organizational performance.
 
+> 🚀 **"Data only becomes truly powerful when placed at the service of people."**
+
 Always open to collaborations, projects or conversations about the intersection of Psychology, Data, and HR Innovation.
 
 ---
@@ -46,7 +48,3 @@ Always open to collaborations, projects or conversations about the intersection 
 
 - [LinkedIn](https://www.linkedin.com/in/mariajoaocunhasantos/)
 - Email: maria.jcunhasantos@gmail.com
-
----
-
-*"Data only becomes truly powerful when placed at the service of people."*
